@@ -27,6 +27,7 @@ Activate venv:
 source .venv/bin/activate
 ``` 
 
+Install langgraph
 ```bash
 pip install langgraph
 ```
