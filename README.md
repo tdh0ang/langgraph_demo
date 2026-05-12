@@ -34,6 +34,18 @@ sudo apt install graphviz
 
 # Run
 
+Create venv:
+
+```bash
+python -m venv .venv 
+``` 
+Activate venv:
+
+```bash
+source .venv/bin/activate
+``` 
+Run demo:
+
 ```bash
 python demo.py
 ```
