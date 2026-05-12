@@ -16,6 +16,17 @@ The goal is to demonstrate:
 
 # Install
 
+Create venv:
+
+```bash
+python -m venv .venv 
+``` 
+Activate venv:
+
+```bash
+source .venv/bin/activate
+``` 
+
 ```bash
 pip install langgraph
 ```
@@ -34,16 +45,6 @@ sudo apt install graphviz
 
 # Run
 
-Create venv:
-
-```bash
-python -m venv .venv 
-``` 
-Activate venv:
-
-```bash
-source .venv/bin/activate
-``` 
 Run demo:
 
 ```bash

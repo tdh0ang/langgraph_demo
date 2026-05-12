@@ -84,7 +84,7 @@ app = graph.compile()
 # -------------------------
 
 result = app.invoke({
-    "user_input": "can you add numbers?"
+    "user_input": "can you add numbers?" # Or "Hello World"
 })
 
 print("\nFINAL STATE:")
